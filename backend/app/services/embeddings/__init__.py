@@ -1,0 +1,1 @@
+"""FinRAG embeddings service package."""

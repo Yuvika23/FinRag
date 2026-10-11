@@ -1,0 +1,110 @@
+GLOBALBANK FINANCIAL GROUP — ANNUAL REPORT FY2024
+[SYNTHETIC DATA — FOR DEMONSTRATION PURPOSES ONLY]
+[This is not real financial information. All figures are fabricated for testing.]
+
+================================================================================
+PAGE 1 — LETTER TO SHAREHOLDERS
+================================================================================
+
+Dear Shareholders,
+
+GlobalBank Financial Group delivered another year of strong financial performance in FY2024.
+Net income grew 15% to $2,260M, driven by higher net interest income, strong fee revenue,
+and disciplined expense management.
+
+Our Return on Equity reached 14.2%, surpassing our 13% target, while our Common Equity
+Tier 1 (CET1) ratio remained well above regulatory requirements at 13.8%.
+
+We continued our digital transformation journey, with 68% of transactions now conducted
+through digital channels, up from 61% in FY2023.
+
+Sincerely,
+Marcus Thompson
+Chief Executive Officer, GlobalBank Financial Group
+
+================================================================================
+PAGE 2 — COMPANY OVERVIEW
+================================================================================
+
+GlobalBank Financial Group (NYSE: GBF) is a diversified financial services group
+serving retail, commercial, and institutional clients across 28 countries.
+
+Business Lines:
+  1. Retail Banking — 35% of revenue ($2,793M)
+  2. Commercial Banking — 28% of revenue ($2,234M)
+  3. Investment Banking — 22% of revenue ($1,756M)
+  4. Wealth Management — 15% of revenue ($1,197M)
+
+Total assets: $185 billion | Employees: 52,000+
+
+================================================================================
+PAGE 3 — FINANCIAL HIGHLIGHTS
+================================================================================
+
+KEY FINANCIAL METRICS (All amounts in USD millions)
+
+                            FY2024      FY2023      Change
+                           --------    --------    -------
+Total Revenue              $7,980.0    $7,200.0    +10.8%
+Net Interest Income        $4,389.0    $3,888.0    +12.9%
+Non-Interest Income        $3,591.0    $3,312.0     +8.4%
+Provision for Loan Losses    $399.0      $432.0     -7.6%
+Operating Expenses         $4,389.0    $4,104.0     +6.9%
+Pre-tax Income             $3,192.0    $2,664.0    +19.8%
+Income Tax Expense           $932.0      $705.0    +32.2%
+Net Income                 $2,260.0    $1,959.0    +15.4%
+Net Margin                    28.3%       27.2%    +110bps
+Return on Equity (ROE)        14.2%       12.8%    +140bps
+Return on Assets (ROA)         1.22%       1.10%    +12bps
+
+Total Assets             $185,000.0  $170,000.0     +8.8%
+Total Deposits           $142,000.0  $130,000.0     +9.2%
+Total Loans              $118,000.0  $108,000.0     +9.3%
+Shareholders' Equity      $15,900.0   $15,300.0     +3.9%
+CET1 Capital Ratio             13.8%       13.2%    +60bps
+
+================================================================================
+PAGE 4 — SEGMENT PERFORMANCE
+================================================================================
+
+RETAIL BANKING
+Revenue: $2,793M (+9% YoY)
+Net income contribution: $698M
+Key highlights: 2.3M new accounts opened; digital adoption reached 68% of transactions
+
+COMMERCIAL BANKING
+Revenue: $2,234M (+12% YoY)
+Net income contribution: $780M
+Loan book grew 11% to $48B; non-performing loans at 0.8% (improved from 1.1%)
+
+INVESTMENT BANKING
+Revenue: $1,756M (+8% YoY)
+Advisory fees grew 15%; equity underwriting up 22% as IPO market recovered
+
+WEALTH MANAGEMENT
+Revenue: $1,197M (+15% YoY)
+AUM grew to $182B (from $158B); net new money inflows of $14B
+
+================================================================================
+PAGE 5 — RISK AND CAPITAL
+================================================================================
+
+CREDIT QUALITY
+The provision for loan losses declined 7.6% to $399M, reflecting:
+  - Improved portfolio quality with non-performing loans declining to 0.9%
+  - Strong underwriting standards maintained through the economic cycle
+  - Reduced exposure to vulnerable sectors
+
+CAPITAL POSITION
+CET1 ratio of 13.8% comfortably exceeds the 10.5% regulatory minimum.
+The bank returned $1,800M to shareholders in FY2024:
+  - Dividends: $900M (per-share dividend of $4.50)
+  - Share buybacks: $900M
+
+INTEREST RATE SENSITIVITY
+Net interest income benefited from the higher interest rate environment.
+A 25bps increase in rates would add approximately $120M to annual NII.
+
+================================================================================
+END OF REPORT — SYNTHETIC DATA FOR DEMONSTRATION ONLY
+================================================================================

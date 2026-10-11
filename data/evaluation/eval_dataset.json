@@ -1,0 +1,49 @@
+[
+  {
+    "question": "What was the revenue for TechVision Corp in FY2024?",
+    "expected_answer": "TechVision Corp reported revenue of $4,250.00 million in FY2024.",
+    "expected_sources": [
+      {"document_name": "TechVision_Annual_Report_FY2024.txt", "page_number": 3}
+    ],
+    "relevant_chunk_ids": []
+  },
+  {
+    "question": "What was the year-over-year revenue growth between FY2023 and FY2024 for TechVision Corp?",
+    "expected_answer": "TechVision Corp revenue grew from $3,750.00 million in FY2023 to $4,250.00 million in FY2024, a growth of 13.33%.",
+    "expected_sources": [
+      {"document_name": "TechVision_Annual_Report_FY2024.txt", "page_number": 3}
+    ],
+    "relevant_chunk_ids": []
+  },
+  {
+    "question": "What reasons did management give for the improvement in gross margins?",
+    "expected_answer": "Management attributed gross margin improvement to product mix optimization, cost discipline, and higher cloud revenue proportion.",
+    "expected_sources": [
+      {"document_name": "TechVision_Annual_Report_FY2024.txt", "page_number": 5}
+    ],
+    "relevant_chunk_ids": []
+  },
+  {
+    "question": "What was the net income margin for GlobalBank in FY2024?",
+    "expected_answer": "GlobalBank net income margin was approximately 28.3% in FY2024 (net income $2,260M / revenue $7,980M).",
+    "expected_sources": [
+      {"document_name": "GlobalBank_Annual_Report_FY2024.txt", "page_number": 4}
+    ],
+    "relevant_chunk_ids": []
+  },
+  {
+    "question": "What is the weather forecast for tomorrow?",
+    "expected_answer": "This question is outside the scope of financial document analysis. No relevant evidence was found.",
+    "expected_sources": [],
+    "relevant_chunk_ids": []
+  },
+  {
+    "question": "Compare revenue growth for TechVision Corp between FY2023 and FY2024, and explain the key factors.",
+    "expected_answer": "TechVision revenue grew 13.33% from FY2023 to FY2024. Key factors include cloud segment expansion and enterprise customer growth.",
+    "expected_sources": [
+      {"document_name": "TechVision_Annual_Report_FY2024.txt", "page_number": 3},
+      {"document_name": "TechVision_Annual_Report_FY2024.txt", "page_number": 5}
+    ],
+    "relevant_chunk_ids": []
+  }
+]

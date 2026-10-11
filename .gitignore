@@ -1,0 +1,34 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Frontend dependencies and builds
+node_modules/
+.next/
+dist/
+build/
+
+# IDE and notebook files
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# Generated model files and vector indexes
+*.safetensors
+*.pt
+*.pth
+*.pkl
+faiss_index/
+vectorstore/
+chroma_db/
+
+# Local logs
+*.log

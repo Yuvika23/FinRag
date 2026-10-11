@@ -1,0 +1,1 @@
+"""FinRAG ingestion service package."""
